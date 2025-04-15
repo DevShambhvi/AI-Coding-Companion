@@ -1,0 +1,6 @@
+{
+  "configurations": [
+	{"root": ["./src/index.ts"], "version": "5.8.3"},
+	{"root": [".env"], "version": "16.5.0"}
+  ]
+}
