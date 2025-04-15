@@ -1,0 +1,11 @@
+.language-selector {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .language-selector select {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
